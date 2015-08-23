@@ -31,7 +31,6 @@ public class RevolutionMain
     public static ToolMaterial EnumToolMaterialLoQueSea;
     @Instance(RevolutionMain.MODID)
 	public static RevolutionMain instance;
-    public static Item LingoteTierra;
 
     @EventHandler 
     
